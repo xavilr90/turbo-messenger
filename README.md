@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+To start:
+
+1. Upgrade Node to latest version (at least 18.x.x)
+2. Run npx next dev
